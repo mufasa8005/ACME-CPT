@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="44edee53-2d45-4a83-a6bd-326722c7a1db" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:61597/AcmeService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AcmeService.disco" MetadataType="Disco" ID="8b410ff2-101c-4736-9dd8-6e7b38ba705a" SourceId="1" SourceUrl="http://localhost:61597/AcmeService.svc?disco" />
+    <MetadataFile FileName="AcmeService.xsd" MetadataType="Schema" ID="fba271ba-e233-4000-8186-61f9921d7b6f" SourceId="1" SourceUrl="http://localhost:61597/AcmeService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AcmeService.wsdl" MetadataType="Wsdl" ID="567cffdc-0281-4fea-a4ca-db7e0755b84c" SourceId="1" SourceUrl="http://localhost:61597/AcmeService.svc?wsdl" />
+    <MetadataFile FileName="AcmeService1.xsd" MetadataType="Schema" ID="45555d8d-a2c7-42c3-a5d7-3ee5f805beb6" SourceId="1" SourceUrl="http://localhost:61597/AcmeService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AcmeService2.xsd" MetadataType="Schema" ID="2929f7f9-8d76-4776-883f-cad2dbeee1df" SourceId="1" SourceUrl="http://localhost:61597/AcmeService.svc?xsd=xsd3" />
+    <MetadataFile FileName="AcmeService3.xsd" MetadataType="Schema" ID="7902dffa-012a-4b45-9b1a-0da75b6c5f49" SourceId="1" SourceUrl="http://localhost:61597/AcmeService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

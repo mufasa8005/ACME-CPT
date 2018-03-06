@@ -1,0 +1,6 @@
+C:\Development\Sandbox\Acme\Acme.Service\bin\Acme.Service.dll.config
+C:\Development\Sandbox\Acme\Acme.Service\bin\Acme.Service.dll
+C:\Development\Sandbox\Acme\Acme.Service\bin\Acme.Service.pdb
+C:\Development\Sandbox\Acme\Acme.Service\obj\Debug\Acme.Service.csproj.CoreCompileInputs.cache
+C:\Development\Sandbox\Acme\Acme.Service\obj\Debug\Acme.Service.dll
+C:\Development\Sandbox\Acme\Acme.Service\obj\Debug\Acme.Service.pdb
